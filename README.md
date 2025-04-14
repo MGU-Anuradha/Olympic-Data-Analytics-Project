@@ -6,6 +6,9 @@ An end-to-end data analytics project built using the **Microsoft Azure** ecosyst
 
 This project explores the power of cloud-based data engineering by developing a **scalable and modular pipeline** to analyze the **Tokyo Olympics** dataset. The goal is to build a pipeline that moves data from ingestion to visualization, applying data cleaning, transformation, and basic ML analysis along the way.
 
+![Project Overview](https://github.com/user-attachments/assets/5b35d894-4072-4e69-997a-c1be49714a76)
+
+
 ---
 
 ## 🛠️ Tech Stack
