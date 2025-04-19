@@ -44,7 +44,7 @@ CSV Files → Azure Data Factory → Data Lake Storage Gen2 → Databricks Noteb
 
 If you're interested in cloud-based data analytics or working on similar projects, feel free to connect or collaborate!
 
-📌 Blog (optional): _Coming Soon_
+📌 Blog : [Entering the World of Data Engineering: A Hands-On Azure Project](https://medium.com/@mguanuradha/entering-the-world-of-data-engineering-a-hands-on-azure-project-f39461cc9c8d)
 
 
 
